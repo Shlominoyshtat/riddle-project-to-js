@@ -1,3 +1,4 @@
+
 import Player from "./folder_classes/player.js";
 import Riddle from "./folder_classes/riddle.js";
 import _import from "./folder_riddle/import.js";
