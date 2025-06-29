@@ -15,6 +15,6 @@ export default class Player{
     }
     showStatus(){
         this.avg = this.total/this.arrTime.length;
-        console.log(`Your average is: ${this.avg}`);
+        console.log(`${this.name}! Your average is: ${this.avg.toFixed(2)}`);
     }
 }
